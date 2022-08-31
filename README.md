@@ -16,7 +16,7 @@ library and storing it.
 
 
 ## Insights from the Wrangled Data
-> After assessing, cleaning and joining the 3 data sources, these are the insights I got.
+After assessing, cleaning and joining the 3 data sources, these are the insights I got.
 
 - 12/10 is the most common dog rating.
 - There is a strong positive relationship between retweet count and favourite count.
